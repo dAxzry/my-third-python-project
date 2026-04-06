@@ -1,6 +1,6 @@
 # my-third-python-project
 
-hi guys it is my third project. i'll upload a new version later.
+hi guys it is my third project. 
 
 how to run: 
 
